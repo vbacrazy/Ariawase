@@ -1,0 +1,5 @@
+C:\Users\Daisuke\Dropbox\Projects\NET\c2def\bin\Debug\c2def.exe
+C:\Users\Daisuke\Dropbox\Projects\NET\c2def\bin\Debug\c2def.pdb
+C:\Users\Daisuke\Dropbox\Projects\NET\c2def\obj\Debug\c2def.csprojResolveAssemblyReference.cache
+C:\Users\Daisuke\Dropbox\Projects\NET\c2def\obj\Debug\c2def.exe
+C:\Users\Daisuke\Dropbox\Projects\NET\c2def\obj\Debug\c2def.pdb
